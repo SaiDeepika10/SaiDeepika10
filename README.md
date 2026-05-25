@@ -19,7 +19,6 @@
 
 I'm a passionate **Data Analyst** with **4 years of experience** transforming raw data into meaningful insights that drive smart business decisions. I thrive at the intersection of analytics, storytelling, and technology.
 
-- 🎥 **Content Creator** — Sharing data analytics tips on YouTube, Medium & Instagram
 - 📊 I turn messy data into clean, actionable dashboards
 - 🐍 Python & SQL are my superpowers
 - ☕ Powered by coffee, curiosity, and dashboards
@@ -69,11 +68,7 @@ I'm a passionate **Data Analyst** with **4 years of experience** transforming ra
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SaiDeepika10)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saideepika10)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saideepika10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saideepika-thammireddy)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiDeepika10)
 
 </div>
 
@@ -117,10 +112,7 @@ I'm always open to collaborating on data projects, discussing analytics trends, 
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SaiDeepika10)
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saideepika10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saideepika-thammireddy)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saideepika10)
 
 ---
 
